@@ -1,5 +1,5 @@
 //variables created as inputs for calculation
-let pi= 3.14
+let pi= Math.PI
 let radius = 20
 
 //do our calculations for the variables above
