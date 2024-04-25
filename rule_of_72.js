@@ -1,7 +1,7 @@
 //variables created as inputs for calcuation
 let annualRateReturn = 8;
-let rule = 72
-let accountBalance = 840.70
+let rule = 72;
+let accountBalance = 840.70;
 
 //do our calculations for the variables above
 let doubledAccountBalance = accountBalance.toFixed(2) * 2
