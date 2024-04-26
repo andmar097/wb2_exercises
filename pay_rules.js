@@ -17,7 +17,7 @@ let hoursWorked = 40;
     //we can assume the regular hours are 40 if they worked over 40 hours
     regularHours = 40;
 
-   //subtract the actual hours
+   //subtract the actual hours worked form the regular pay hours to get the overtime hours
     overtimeHours = hoursWorked - regularHours;
  } else {
     //code for folks who didn't work overtime
